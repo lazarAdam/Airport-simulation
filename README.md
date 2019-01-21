@@ -6,5 +6,6 @@ A simple airport simultion using the concept of queues.
 # A screenshot of one run of the simultion
 
 
+![rsz_smartselect_20180505-092337](https://raw.githubusercontent.com/lazarAdam/Airport-simulation/master/demo.JPG)
 
 
